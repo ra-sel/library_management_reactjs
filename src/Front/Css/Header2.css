@@ -1,0 +1,17 @@
+.header2{
+    /* background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(hu.jpg) !important;  */
+    /* background-color: #b3b3ff; */
+    height: 200vh;
+    background-size: cover;
+    background-position: center;
+  }
+  .Appbody{
+    background-color:  #1a000d !important;
+
+  }
+  .clock{
+    text-align: center !important;
+    color: white;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
